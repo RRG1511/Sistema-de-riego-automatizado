@@ -12,3 +12,6 @@ Para este proyecto de diseño un sistema capaz de monitorear todas las variables
 
 ### Maqueta del sistema de riego
 ![Image](https://github.com/user-attachments/assets/60f92edb-598e-445d-9c0c-045814823466)
+
+### Plano P&ID
+<img width="831" height="668" alt="Image" src="https://github.com/user-attachments/assets/7180ca4b-4aea-4b7c-800e-877444a601d1" />
